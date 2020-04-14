@@ -11,6 +11,10 @@ Notes and/or comments on those papers, if any will be included next to each pape
 
 <img src="https://render.githubusercontent.com/render/math?math= ">
 
+<div class="proof">
+A Proof.
+</div>
+
 
 
 ## |Papers|
