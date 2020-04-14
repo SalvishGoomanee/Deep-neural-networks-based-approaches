@@ -9,7 +9,7 @@ Notes and/or comments on those papers, if any will be included next to each pape
 #### 1. Python machine learning (second edition) [Notes]()
 
 
-
+$e^{i \pi} = -1$
 
 
 
