@@ -1,1 +1,1 @@
-#### 1. Python machine learning (second edition)
+### Python machine learning (second edition)
