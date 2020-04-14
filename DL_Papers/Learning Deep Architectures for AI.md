@@ -1,2 +1,2 @@
-# Learning Deep Architectures for AI
+### Learning Deep Architectures for AI
 
