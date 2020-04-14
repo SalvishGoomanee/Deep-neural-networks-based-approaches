@@ -4,8 +4,13 @@ In this post, I list the papers I have been reading on implementations of deep l
 
 Notes and/or comments on those papers, if any will be included next to each paper.
 
-## Books
+## |Books|
+
+### 1. Python machine learning (second edition) [Notes]
 
 
 
-## Papers
+
+
+
+## |Papers|
