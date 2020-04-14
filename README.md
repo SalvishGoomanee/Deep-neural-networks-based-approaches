@@ -9,7 +9,7 @@ Notes and/or comments on those papers, if any will be included next to each pape
 #### 1. Python machine learning (second edition) [Notes]()
 
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math= ">
 
 
 
