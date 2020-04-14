@@ -11,6 +11,18 @@ Notes and/or comments on those papers, if any will be included next to each pape
 
 <img src="https://render.githubusercontent.com/render/math?math= ">
 
+---
+amsthm:
+  plain:	[Theorem]
+  plain-unnumbered:	[Lemma, Proposition, Corollary]
+  definition:	[Definition,Conjecture,Example,Postulate,Problem]
+  definition-unnumbered:	[]
+  remark:	[Case]
+  remark-unnumbered:	[Remark,Note]
+  proof:	[proof]
+  parentcounter:	chapter
+...
+
 <div class="proof">
 A Proof.
 </div>
