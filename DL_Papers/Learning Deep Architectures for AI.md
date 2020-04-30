@@ -1,7 +1,3 @@
 #### Learning Deep Architectures for AI
 
-$$
-\begin{equation} 
-f(x)
-\end{equation}
-$$
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
