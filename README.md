@@ -12,7 +12,7 @@ Note: The papers are not in any order of complexity and/or grouped under any par
   
 ## Books
 
-### Books for getting acquainted with techniques and algorithms in ML/DL.
+**Books for getting acquainted with techniques and algorithms in ML/DL**
 
 - Python machine learning (second edition). [Notes]()
 
@@ -24,7 +24,7 @@ Note: The papers are not in any order of complexity and/or grouped under any par
 
 ------------------------------------
 
-### Further documentation on ML/DL.
+**Further documentations on ML/DL**
 
 - Introduction to time series and forecasting.
 
@@ -86,7 +86,7 @@ Note: The papers are not in any order of complexity and/or grouped under any par
 
 - Operational Neural Networks.
 
-- OPTIMAL WEIGHTED NEAREST NEIGHBOUR CLASSIFIERS1.
+- OPTIMAL WEIGHTED NEAREST NEIGHBOUR CLASSIFIERS.
 
 - Review: deep learning on 3D point clouds.
 
