@@ -11,7 +11,6 @@ Note: The papers are not in any order of complexity and/or grouped under any par
 ------------------------------------
   
 ## Books
---------------------------------------
 
 ### Books for getting acquainted with techniques and algorithms in ML/DL.
 
