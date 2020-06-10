@@ -5,7 +5,19 @@ In this post, I list the papers I have been reading and studying pertaining to t
 Notes and/or comments on those papers, if any will be included next to each paper.
 
 <H6>
-Note: The papers are not in any order of complexity and/or grouped under any particular theme. I, myself, am interested in deep learning for 3D point clouds and optimisation approaches, and CV in general. Feel free to contact me if you have any questions pertaining to any items in the lists below. 
+Note: 
+  
+  
+- The papers are not in any order of complexity. My interests include but is not limited to, deep learning for 3D point clouds, optimisation approaches and CV in general. 
+
+
+- I, therefore, focus on **deep learning techniques for computer vision**, **combinatorial optimisation** and **belief propagation systems**.
+
+
+- I also include papers related to the application of deep learning approaches in various other aspects where I will try to give overviews as well.
+
+
+- Feel free to let me know if you have any questions/comments pertaining to any of the items from the lists below.
 <H6>
   
 ------------------------------------
