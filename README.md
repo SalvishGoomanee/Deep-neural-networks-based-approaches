@@ -1,6 +1,6 @@
 # Deep Learning literature
 
-In this post, I list the papers I have been reading and studying pertaining to the implementations of deep learning algorithms in various fields.
+In this repository, I list the papers I have been reading and studying pertaining to the implementations of deep learning algorithms in various fields.
 
 Notes and/or comments on those papers, if any will be included next to each paper.
 
