@@ -88,6 +88,8 @@ Note:
 
 - Natural Language Processing (almost) from Scratch.
 
+- TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems.
+
 ------------------------------------------
 
 **Papers on deep learning using point clouds based methods**
@@ -136,8 +138,6 @@ Part I: spin chains.
 - Operational Neural Networks.
 
 - Stock Market Prediction with Deep Learning: A Character-based Neural Language Model for Event-based Trading.
-
-- TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems.
 
 - AlgebraNets
 
