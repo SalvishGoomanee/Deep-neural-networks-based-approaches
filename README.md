@@ -58,63 +58,89 @@ Note:
 
 **Papers introducing and discussing deep learning approaches**
 
-- Deep learning. [Notes]()
+- [Deep learning](https://www.nature.com/articles/nature14539). 
 
-- A learning algorithm for Boltzmann Machines.
+- [A learning algorithm for Boltzmann Machines](https://www.enterrasolutions.com/media/docs/2013/08/cogscibm.pdf).
 
-- A fast learning algorithm for deep belief nets.
+- [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf). 
 
-- Course notes on Optimization for Machine Learning.
+- [Course notes on Optimization for Machine Learning](https://mathematical-tours.github.io/book-sources/optim-ml/OptimML.pdf). 
 
-- Optimal weighted nearest neighbour classifiers.
+- [Optimal weighted nearest neighbour classifiers](https://arxiv.org/pdf/1101.5783.pdf). 
 
-- Deep Learning in Neural Networks: An Overview.
+- [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828). 
 
-- Deep Sparse Rectifier Neural Networks.
+- [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a.html). 
 
-- Generalization in Deep Learning.
+- [Generalization in Deep Learning](https://arxiv.org/abs/1710.05468). 
 
-- Gradient-based learning applied to document recognition.
+- [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/document/726791).
 
-- Handwritten Digit Recognition with a Back-Propagation Network.
+- [Handwritten Digit Recognition with a Back-Propagation Network](http://yann.lecun.com/exdb/publis/pdf/lecun-90c.pdf).
 
-- ImageNet Classification with Deep Convolutional Neural Networks.
+- [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
 
-- Learning Bayesian belief networks with neural network estimators.
+- [Learning Bayesian belief networks with neural network estimators](https://papers.nips.cc/paper/1211-learning-bayesian-belief-networks-with-neural-network-estimators.pdf).
 
-- Learning Deep Architectures for AI.
+- [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf).
 
-- Long short term memory.
+- [Long short term memory](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735).
 
-- Natural Language Processing (almost) from Scratch.
+- [Natural Language Processing (almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf).
 
-- TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems.
+- [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://arxiv.org/abs/1603.04467).
 
 ------------------------------------------
 
 **Papers on deep learning using point clouds based methods**
 
-- Deep Learning for 3D Point Clouds: A Survey.
+- [Deep Learning for 3D Point Clouds: A Survey](https://arxiv.org/abs/1912.12033).
 
-- Review: deep learning on 3D point clouds.
+- [Review: deep learning on 3D point clouds](https://arxiv.org/pdf/2001.06280.pdf).
 
-- Geometric features and theire relevance for 3D point cloud classification.
+- [Geometric features and theire relevance for 3D point cloud classification](https://cg.cs.uni-bonn.de/en/publications/paper-details/weinmann-2017-cmrt/).
 
-- PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593).
 
-- PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.
+- [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/pdf/1706.02413.pdf).
 
-- Self-Supervised Deep Learning on Point Clouds by Reconstructing Space.
+- [Self-Supervised Deep Learning on Point Clouds by Reconstructing Space](https://papers.nips.cc/paper/9455-self-supervised-deep-learning-on-point-clouds-by-reconstructing-space).
 
-- MortonNet: Self-Supervised Learning of Local Features in 3D Point Clouds.
+- [MortonNet: Self-Supervised Learning of Local Features in 3D Point Clouds](https://arxiv.org/pdf/1904.00230.pdf).
 
-- Fast graph representation learning with PyTorch Geometric.
+- [Fast graph representation learning with PyTorch Geometric](https://arxiv.org/abs/1903.02428).
+
+- [Deep Closest Point: Learning Representations for Point Cloud Registration](https://arxiv.org/abs/1905.03304).
+
+- [Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/abs/1707.02392).
 
 ------------------------------------------
 
+**Deep learning and combinatorial optimization**
+
+- [Machine Learning for Combina- torial Optimization:
+a Methodological Tour dHorizon](https://arxiv.org/abs/1811.06128).
+
+- [Deep Optimisation:
+Solving Combinatorial Optimisation Problems using Deep Neural Networks](https://arxiv.org/abs/1811.00784).
+
+- [Reinforcement Learning for Combinatorial Optimization: A Survey](https://arxiv.org/abs/2003.03600).
+
+- [Learning Heuristics over Large Graphs via Deep Reinforcement Learning](https://arxiv.org/abs/1903.03332).
+
+- [Pointer Networks](https://arxiv.org/abs/1506.03134).
+
+- [NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING](https://arxiv.org/abs/1611.09940).
+
+- [DEEP GRAPH MATCHING VIA BLACKBOX DIFFERENTIATION OF COMBINATORIAL SOLVERS](https://arxiv.org/abs/2003.11657).
+
+------------------------------------------
+
+## Miscellaneous
+
 **Machine learning in physics**
 
-- A high-bias, low-variance introduction to machine learning for physicists. [Notes]()
+- A high-bias, low-variance introduction to machine learning for physicists. 
 
 - Machine Learning for Quantum Matter.
 
@@ -140,6 +166,16 @@ Part I: spin chains.
 - Stock Market Prediction with Deep Learning: A Character-based Neural Language Model for Event-based Trading.
 
 - AlgebraNets
+
+- Perceptual Learning and Abstraction in Machine Learning: an application to autonomous robotics.
+
+- Deep Learning with Differential Privacy.
+
+- TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN.
+
+- Advances and Open Problems in Federated Learning.
+
+- A comprehensive review on emerging artificial neuromorphic devices.
 
 ---------------------------------------
 
