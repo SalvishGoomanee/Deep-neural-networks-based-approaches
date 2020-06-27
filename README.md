@@ -118,11 +118,9 @@ Note:
 
 **Deep learning and combinatorial optimization**
 
-- [Machine Learning for Combina- torial Optimization:
-a Methodological Tour dHorizon](https://arxiv.org/abs/1811.06128).
+- [Machine Learning for Combina- torial Optimization: a Methodological Tour dHorizon](https://arxiv.org/abs/1811.06128).
 
-- [Deep Optimisation:
-Solving Combinatorial Optimisation Problems using Deep Neural Networks](https://arxiv.org/abs/1811.00784).
+- [Deep Optimisation: Solving Combinatorial Optimisation Problems using Deep Neural Networks](https://arxiv.org/abs/1811.00784).
 
 - [Reinforcement Learning for Combinatorial Optimization: A Survey](https://arxiv.org/abs/2003.03600).
 
@@ -133,6 +131,8 @@ Solving Combinatorial Optimisation Problems using Deep Neural Networks](https://
 - [NEURAL COMBINATORIAL OPTIMIZATION WITH REINFORCEMENT LEARNING](https://arxiv.org/abs/1611.09940).
 
 - [DEEP GRAPH MATCHING VIA BLACKBOX DIFFERENTIATION OF COMBINATORIAL SOLVERS](https://arxiv.org/abs/2003.11657).
+
+- [Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1911.04936v1.pdf).
 
 ------------------------------------------
 
