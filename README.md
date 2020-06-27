@@ -136,6 +136,12 @@ Note:
 
 - [SOLVING NP-HARD PROBLEMS ON GRAPHS WITH EXTENDED ALPHAGO ZERO](https://arxiv.org/pdf/1905.11623v2.pdf).
 
+- [DEEP BOLTZMANN MACHINES IN ESTIMATION OF DISTRIBUTION ALGORITHMS FOR COMBINATORIAL OPTIMIZATION](https://arxiv.org/pdf/1509.06535v2.pdf).
+
+- [GENERATIVE ADVERSARIAL NETWORKS IN ESTIMATION OF DISTRIBUTION ALGORITHMS FOR COMBINATORIAL OPTIMIZATION](https://arxiv.org/pdf/1509.09235v2.pdf).
+
+- [How to Evaluate Machine Learning Approaches for Combinatorial Optimization: Application to the Travelling Salesman Problem](https://arxiv.org/pdf/1909.13121v1.pdf).
+
 ------------------------------------------
 
 ## Miscellaneous
