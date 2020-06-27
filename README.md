@@ -134,6 +134,8 @@ Note:
 
 - [Combinatorial Optimization by Graph Pointer Networks and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1911.04936v1.pdf).
 
+- [SOLVING NP-HARD PROBLEMS ON GRAPHS WITH EXTENDED ALPHAGO ZERO](https://arxiv.org/pdf/1905.11623v2.pdf).
+
 ------------------------------------------
 
 ## Miscellaneous
