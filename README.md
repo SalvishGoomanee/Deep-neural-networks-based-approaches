@@ -118,7 +118,7 @@ Note:
 
 **Deep learning and combinatorial optimization**
 
-- [Machine Learning for Combina- torial Optimization: a Methodological Tour dHorizon](https://arxiv.org/abs/1811.06128).
+- [Machine Learning for Combinatorial Optimization: a Methodological Tour dHorizon](https://arxiv.org/abs/1811.06128).
 
 - [Deep Optimisation: Solving Combinatorial Optimisation Problems using Deep Neural Networks](https://arxiv.org/abs/1811.00784).
 
