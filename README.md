@@ -32,13 +32,15 @@ Note:
 
 **Books for getting acquainted with techniques and algorithms in ML/DL**
 
-- Python machine learning (second edition). [Notes]()
+- Python machine learning (second edition), by Sebastian Raschka and Vahid Mirjalili. 
 
-- Deep learning with Python.
+- Deep learning with Python, by François Chollet.
 
-- Deep learning with PyTorch.
+- Deep learning with PyTorch, by Eli Stevens and Luca Antiga.
 
-- Deep learning.
+- Deep learning, by I. Goodfellow, Yoshua Bengio and Aaron Courville.
+
+- Reinforcement Learning An introduction (Second Edition), by Richard S. Sutton and Andrew G. Barto.
 
 ------------------------------------
 
@@ -141,6 +143,8 @@ Note:
 - [GENERATIVE ADVERSARIAL NETWORKS IN ESTIMATION OF DISTRIBUTION ALGORITHMS FOR COMBINATORIAL OPTIMIZATION](https://arxiv.org/pdf/1509.09235v2.pdf).
 
 - [How to Evaluate Machine Learning Approaches for Combinatorial Optimization: Application to the Travelling Salesman Problem](https://arxiv.org/pdf/1909.13121v1.pdf).
+
+- [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560).
 
 ------------------------------------------
 
