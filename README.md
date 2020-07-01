@@ -146,6 +146,10 @@ Note:
 
 - [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560).
 
+- [Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665).
+
+- [Reinforcement Learning for Solving the Vehicle Routing Problem](https://arxiv.org/abs/1802.04240).
+
 ------------------------------------------
 
 ## Miscellaneous
