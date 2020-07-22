@@ -100,7 +100,13 @@ Note:
 
 - [Review: deep learning on 3D point clouds](https://arxiv.org/pdf/2001.06280.pdf).
 
-- [Geometric features and theire relevance for 3D point cloud classification](https://cg.cs.uni-bonn.de/en/publications/paper-details/weinmann-2017-cmrt/).
+- [Geometric features and their relevance for 3D point cloud classification](https://cg.cs.uni-bonn.de/en/publications/paper-details/weinmann-2017-cmrt/).
+
+- [Deep Closest Point: Learning Representations for Point Cloud Registration](https://arxiv.org/abs/1905.03304).
+
+- [Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/abs/1707.02392).
+
+- [Fast graph representation learning with PyTorch Geometric](https://arxiv.org/abs/1903.02428).
 
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593).
 
@@ -110,11 +116,16 @@ Note:
 
 - [MortonNet: Self-Supervised Learning of Local Features in 3D Point Clouds](https://arxiv.org/pdf/1904.00230.pdf).
 
-- [Fast graph representation learning with PyTorch Geometric](https://arxiv.org/abs/1903.02428).
+- [4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/abs/1904.08755).
 
-- [Deep Closest Point: Learning Representations for Point Cloud Registration](https://arxiv.org/abs/1905.03304).
+- [Deep Hough Voting for 3D Object Detection in Point Clouds](https://arxiv.org/abs/1904.09664).
 
-- [Learning Representations and Generative Models for 3D Point Clouds](https://arxiv.org/abs/1707.02392).
+- [KPConv: Flexible and Deformable Convolution for Point Clouds](https://arxiv.org/abs/1904.08889).
+
+- [RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/1911.11236).
+
+- [Relation-Shape Convolutional Neural Network for Point Cloud Analysis](https://arxiv.org/abs/1904.07601).
+
 
 ------------------------------------------
 
